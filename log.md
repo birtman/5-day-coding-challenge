@@ -1,11 +1,11 @@
 # Daily Log
 
 ## Day 1
-Status:
+Status: Done!
 
-Link:
+Link: https://github.com/birtman/SpiritAnimal
 
-Lesson Learned: 
+Lesson Learned: Keyframes
 
 ## Day 2
 Status:
