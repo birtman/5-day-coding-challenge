@@ -8,9 +8,9 @@ Link:
 Lesson Learned: 
 
 ## Day 2
-Status:
+Status:Done
 
-Link:
+Link:https://github.com/birtman/Gigi
 
 Lesson Learned: 
 
