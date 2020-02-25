@@ -1,7 +1,7 @@
 # Daily Log
 
 ## Day 1
-Status:
+Status:Done
 
 Link:https://github.com/birtman/SpiritAnimal
 
